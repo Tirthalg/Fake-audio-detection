@@ -103,8 +103,3 @@ joblib
 
 ---
 
-## 👤 Author
-
-Built by an MTech Data Science student as part of research into audio deepfake detection.
-
-Feel free to open an issue or reach out with feedback!
